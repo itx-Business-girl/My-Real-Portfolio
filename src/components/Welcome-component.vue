@@ -56,7 +56,7 @@ I believe in continuous learning, writing efficient code, and building interface
   </div>
 
   <div class="icon-item">
-    <a href="https://www.instagram.com/mari_a20262025" target="_blank"><i class="fa-brands fa-square-instagram icon"></i></a>
+    <a href="https://www.instagram.com/maria.Khan458" target="_blank"><i class="fa-brands fa-square-instagram icon"></i></a>
     <span class="icon-item ">Instagram</span>
   </div>
 
