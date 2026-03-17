@@ -1,0 +1,130 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+background:black;
+margin:0;
+}
+
+
+/* welcome section */
+
+.welcome-background{
+  background-color: black;
+  min-height: 100vh;
+  border-bottom: 3px solid grey;
+  padding:40px 20px;
+    
+}
+
+.welcome-heading1{
+  color: white;
+  margin-top: 13%;
+  font-size: 45px;
+}
+.strong-headin1{
+  color: rgba(194, 158, 29, 0.913);;
+}
+.welcome-heading2{
+  color: rgba(194, 158, 29, 0.913);;
+  font-size: 42px;
+}
+.welcome-paragraph1{
+ color: #ccc;
+ margin-top: 10%;
+ font-size: 22px;
+ font-weight: 800;
+}
+
+.welcome-heading3{
+  color: white;
+  font-size: 30px;
+  font-weight: 800;
+}
+.welcome-peragraph2{
+  color: #ccc;
+  font-size: 19px;
+  font-weight: 20px;
+  margin-top: 20px;
+}
+
+.welcome-button{
+  display:flex;
+  flex-wrap:wrap; 
+  padding: 9px 17px;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: white;
+  background: transparent;
+  border: 2px solid white;
+  border-radius: 250px;
+  cursor: pointer;
+  transition: all 0.35s ease;
+  margin-left: 5px;
+  display: inline;
+  margin-top: 10px;
+}
+.welcome-button:hover{
+  background: #e7a01b;
+  color: black;
+  border-color: rgb(12, 12, 12);
+  transform: translateY(-4px);   
+  box-shadow: 0 10px 15px rgba(212,175,55,0.6);
+}
+/* icon section */
+.div{
+  height: 100px;
+  width: 100%;
+  background-color: black;
+  border: 3px solid rgb(148, 141, 141);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hero-content-container{
+  min-height: 220px;
+max-width:800px;
+margin:40px auto;
+padding:0 20px;
+text-align:center;
+background-color: #141414;
+border-radius: 20PX;
+box-shadow:0 2px 20px rgba(126, 125, 122, 0.6) ;
+}
+
+.container-peragraph{
+  font-size: 20px;
+  font-weight: 400px;
+  color:white;
+  word-spacing: 2px;
+  /* margin-top: 10px; */
+    line-height:1.4;
+  word-break:break-word;
+  padding: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 3%;
+}
+
+.container-heading{
+  color: white;
+  margin-top: 11%;
+  padding-top: 3%;
+
+}
+.strong-text{
+  color: #d4af37;
+}
+.meetup-heading{
+  color: #d6d6d6;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 7%;
+  padding: 2%;
+}
+
+
