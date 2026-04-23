@@ -61,12 +61,12 @@ I believe in continuous learning, writing efficient code, and building interface
   </div>
 
   <div class="icon-item">
-    <i class="fa-brands fa-square-linkedin icon "></i>
+    <a href="https://www.linkedin.com/in/maria-khan-737600405/"><i class="fa-brands fa-square-linkedin icon "></i></a>
     <span class="icon-item ">LinkedIn</span>
   </div>
 
   <div class="icon-item">
-    <i class="fa-solid fa-briefcase  icon"></i>
+    <a href="https://www.fiverr.com/sellers/maria_khan_dev/"><i class="fa-solid fa-briefcase  icon"></i></a>
     <span class="icon-item">Fiverr</span>
   </div>  
 </div>
