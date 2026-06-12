@@ -28,8 +28,9 @@ Hi, I'm <strong class="strong-headin1 glow-text">Maria Khan</strong>
 <button class="welcome-button">Vue.js</button>
 <button class="welcome-button">Tailwind</button>
 </div>
-
+<a href="/Project" class="background">View My Projects</a>
 </div>
+
 <img class="welcome-image" src="../assets/girl.png">
 </div>
 
@@ -66,7 +67,7 @@ I believe in continuous learning, writing efficient code, and building interface
   </div>
 
   <div class="icon-item">
-    <a href="https://www.fiverr.com/sellers/maria_khan_dev/"><i class="fa-solid fa-briefcase  icon"></i></a>
+    <a href="https://www.fiverr.com/s/dD4AZdG"><i class="fa-solid fa-briefcase  icon"></i></a>
     <span class="icon-item">Fiverr</span>
   </div>  
 </div>
@@ -82,6 +83,50 @@ gap:40px;
 
 /* flex-wrap:wrap; */
 }
+ .background{
+   display:flex;
+  flex-wrap:wrap; 
+  padding:7px;
+  font-size: 13px;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+  border: 2px solid rgb(31, 30, 30);
+  border-radius: 25px;
+  cursor: pointer;
+  margin-left: 5px;
+  width: 145px;
+   display: inline; 
+   text-decoration: none; 
+  margin-top: 10px;
+   background: linear-gradient(
+  to right,
+  rgb(36, 26, 0),
+  rgb(207, 166, 75)
+);  
+background: linear-gradient(
+  to right,
+  rgb(39, 29, 1),
+  rgb(221, 176, 78)
+);
+  }
+  .background:hover{
+     background: linear-gradient(
+  to right,
+  rgb(15, 15, 15),
+  rgb(90, 89, 87)
+);  
+background: linear-gradient(
+  to right,
+  rgb(20, 20, 20),
+  rgb(122, 121, 119)
+);
+  color: black;
+  border-color: rgb(56, 55, 55);
+  transform: translateY(-1px);   
+  box-shadow: 0 5px 5px rgba(131, 124, 97, 0.3);
+}
+
+
 
 .welcome-image{
 width:100%;

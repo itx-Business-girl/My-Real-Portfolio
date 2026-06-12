@@ -4,37 +4,43 @@
    <div class="projects-container">
 
   <div class="project-card">
-    <img class="project-img" src="https://i.pinimg.com/1200x/9f/6b/59/9f6b5941056b110cf32dfc9230134ceb.jpg" alt="coffee" >
+    <img class="project-img" src="../assets/bangles.jpeg" alt="coffee" >
     <div class="project-content">
-      <h3 class="project-title">Coffee Shop Website</h3>
+      <h3 class="project-title">Kashmiri angles Website</h3>
       <p class="project-text">
-        Responsive coffee shop website built with Vue.js and Tailwind CSS.
-      </p>
-      <button class="project-btn">View Project</button>
+        Developed an e-commerce website “Kashmiri Bangles” featuring a wide range of bangles in different styles, built with HTML, CSS, JavaScript, and Vue.js, focusing on elegance, usability, and responsive design.      </p>
+      <a class="project-btn" href="https://bangles-website-mvlg99-bvidw9h6u-maria-khan448s-projects.vercel.app/">View Project</a>
     </div>
   </div>
 
 
   <div class="project-card">
-    <img class="project-img" src="https://i.pinimg.com/736x/c9/a4/0e/c9a40e440872a29c6b336d5b9da7ef71.jpg" alt="zinger burger">
+    <img class="project-img" src="../assets/fast food.jpeg" alt="zinger burger">
     <div class="project-content">
-      <h3 class="project-title">Zinger Burger Website</h3>
+      <h3 class="project-title">Fast food Website</h3>
       <p class="project-text">
-        Zinger Burger landing page built using Vue.js and Tailwind CSS,
+        A Quick Bite fast food website designed to showcase delicious and quick meal options with a modern and user-friendly interface. Built using HTML, CSS, JavaScript, and Vue.js, it focuses on smooth navigation, attractive visuals, and a seamless ordering experience.
       </p>
-      <button class="project-btn">View Project</button>
+      <a href="https://fast-food-website-c25x-9onfczu1w-maria-khan448s-projects.vercel.app/"><button class="project-btn">View Project</button></a>
     </div>
   </div>
 
 
   <div class="project-card">
-    <img class="project-img" src="https://i.pinimg.com/736x/df/c4/4f/dfc44fd4e5a8ad0e3d6f3d612bd833c9.jpg" alt="cake shop">
+    <img class="project-img" src="../assets/abaya.jpeg" alt="cake shop">
     <div class="project-content">
-      <h3 class="project-title">Cake Shop Website</h3>
+      <h3 class="project-title">Abaya's Shop Website</h3>
       <p class="project-text">
-        Cake shop landing page built using Vue.js and Tailwind CSS,
+        ylish e-commerce website for an Abaya shop showcasing a variety of elegant and modern abaya designs. Built using HTML, CSS, JavaScript, and Vue.js, it focuses on a clean layout, smooth navigation, and a responsive shopping experience.
       </p>
-      <button class="project-btn">View Project</button>
+      <a
+   href="https://abaya-project-e4fy66z6u-maria-khan448s-projects.vercel.app/"
+    target="_blank"
+    rel="noopener noreferrer"
+     class="project-btn"
+  >
+  View Project
+  </a>
     </div>
   </div>
 
